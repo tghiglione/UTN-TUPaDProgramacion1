@@ -1,0 +1,11 @@
+Manzanas,1200,50
+Leche,950,30
+Pan,800,25
+Huevos,1800,12
+Arroz,1500,40
+Fideos,1300,35
+Azucar,1100,20
+Yerba,2500,15
+Aceite,3000,10
+Queso,4200,8
+Cafe,3500,12
